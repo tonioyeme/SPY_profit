@@ -116,3 +116,6 @@ dmypy.json
 
 # Local CSV files
 # *.csv
+
+# Exclude specific files and directories
+.DS_Store
